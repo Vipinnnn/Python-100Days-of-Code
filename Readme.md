@@ -1,15 +1,15 @@
-Python 100 Days of Code:
+<h1>Python 100 Days of Code:</h1>
 
-Day1:
+<h3>Day1:</h3>
 Print function,
 String concatenation,
 Input function,
 Variables, Naming variables
 
-Day1 project: Band Name Generator, using simple string concatenation.
+<h3>Day1 project:</h3> Band Name Generator, using simple string concatenation.
 
-Day2:
+<h3>Day2:</h3>
 Python Data Types, Type Conversion, F-Strings, Maths Operations(PEMDAS rule)
 
-Day2 project:
+<h3>Day2 project:</h3>
 Tip calcuator, using simple mathematical operations, type conversion and F-string
