@@ -19,3 +19,9 @@ Control Flow if/else, Nested if else, elif, logical operators.
 
 <h3>Day3 Project:</h3>
 Choice game, using nested if else.
+
+<h3>Day4:</h3>
+Random function, list, list methods.
+
+<h3>Day3 Project:</h3>
+Rock Paper Scissors, using random function.
