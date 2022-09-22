@@ -31,3 +31,9 @@ For loop in python, range().
 
 <h3>Day5 Project:</h3>
 Password generator, using random functions and list.
+
+<h3>Day6:</h3>
+Function defination and calling, While loop and indentation.
+
+<h3>Day6 Project:</h3>
+Reeborg's World Maze, Solved the maze& hurdle1-4 on https://reeborg.ca/reeborg.html , using functions, while loop and if/else conditions  .
