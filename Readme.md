@@ -23,5 +23,11 @@ Choice game, using nested if else.
 <h3>Day4:</h3>
 Random function, list, list methods.
 
-<h3>Day3 Project:</h3>
+<h3>Day4 Project:</h3>
 Rock Paper Scissors, using random function.
+
+<h3>Day5:</h3>
+For loop in python, range().
+
+<h3>Day5 Project:</h3>
+Password generator, using random functions and list.
