@@ -37,3 +37,9 @@ Function defination and calling, While loop and indentation.
 
 <h3>Day6 Project:</h3>
 Reeborg's World Maze, Solved the maze& hurdle1-4 on https://reeborg.ca/reeborg.html , using functions, while loop and if/else conditions  .
+
+<h3>Day7:</h3>
+Practicing loops, if/else condition.
+
+<h3>Day7 Project:</h3>
+Hangman game, using list, while,for loop, if/else .
