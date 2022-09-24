@@ -2,11 +2,15 @@ import random
 from turtle import position
 from hangman_art import logo, stages
 from hangman_words import word_list
+from random_word import RandomWords
+import os
+r = RandomWords()
+
 
 print(logo)
 
 # choosing a random word from the list
-chosen_word = random.choice(word_list)
+chosen_word = r.get_random_word().lower()
 # print(f"hint: {chosen_word}")
 # Length of the randomly chosen word
 len_word = len(chosen_word)
@@ -22,7 +26,7 @@ end_of_game = False
 
 while end_of_game == False:
     guess = input("Guess a letter: ").lower()
-
+    os.system('cls')
     if guess in display:
         print("You've already guessed this letter.")
 
