@@ -43,3 +43,9 @@ Practicing loops, if/else condition.
 
 <h3>Day7 Project:</h3>
 Hangman game, using list, while,for loop, if/else .
+
+<h3>Day8:</h3>
+Functions with parameters, parameter , argument difference.
+
+<h3>Day8 Project:</h3>
+Caesar Cipher: encryption and decryption, using functions
