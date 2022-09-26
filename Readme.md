@@ -53,5 +53,5 @@ Caesar Cipher: encryption and decryption, using functions
 <h3>Day9:</h3>
 Dictionaries , nested dictionary/list.
 
-<h3>Day8 Project:</h3>
+<h3>Day9 Project:</h3>
 Silent Auction, using dictionary.
